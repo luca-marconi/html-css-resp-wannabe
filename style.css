@@ -78,3 +78,8 @@ img{
 .clear {
   clear:both;
 }
+
+@media screen and (max-width: 420px) {
+    .row {
+        width: 100%;
+    }
